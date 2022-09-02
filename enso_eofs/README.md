@@ -6,6 +6,9 @@ https://www.metoffice.gov.uk/hadobs/hadisst/data/download.html
 
 All other files use u-bl949 or u-bh443 data as in the rest of the repository
 
+Analysis in the Correlations directory didn't really yield any interesting results so is not well formatted at all. It is included for reference,
+but should probably be redone more thouroughly if it becomes of interest.
+
 ## EOF analysis
 EOF analysis is computed using either the eofs.standard package from Ajdawson or xeofs from Nicrie
 Both compute eofs using an SVD method and a helpful comparison between what the packages can do can be found in the xeofs documentation.
