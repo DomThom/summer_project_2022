@@ -4,6 +4,9 @@
 Real_data_ENSO.ipynb makes use of the Hadley SST dataset, which can be found here:
 https://www.metoffice.gov.uk/hadobs/hadisst/data/download.html
 
+Data used in smooth_comparison_data.ipynb is output from 949_ENSO_OH_yearly_alsoNOx.ipynb directly after computation of the eofs, so to recreate
+the u-bl949 eofs would need to be calculated again
+
 All other files use u-bl949 or u-bh443 data as in the rest of the repository
 
 Analysis in the Correlations directory didn't really yield any interesting results so is not well formatted at all. It is included for reference,
